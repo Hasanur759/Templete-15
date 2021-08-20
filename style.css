@@ -1,0 +1,74 @@
+.header{
+    background: #101445;
+}
+.header img{
+    width: 45%;
+    height:70px;
+}
+.header ul{
+}
+.header ul li{
+    padding: 10px;
+    display: inline-block;
+    line-height: 65px;
+    /* margin-bottom: 0; */
+    padding-bottom: 0;
+}
+.header ul li a{
+    text-decoration: none;
+    color: white;
+}
+.header ul li a:hover{}
+
+/* <!-- banner-section-start --> */
+
+.banner {
+    background: url(https://i.ibb.co/zGHpjmM/intro-bg.jpg);
+    padding: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner h2{
+    color: white;
+    padding: 20px;
+}
+.banner p{
+    color: white;
+}
+
+/* <!-- meet-section-start --> */
+.meet{
+    background: #bac1f2;
+    padding: 40px;
+}
+.meet h2{
+    font-size: 60px;
+}
+
+/* <!-- about-section-start --> */
+.about{
+    background: #c1d3e9;
+    padding: 20px;
+}
+.about h2{
+    font-size: 60px;
+}
+/* <!-- contact-section-start --> */
+.contact{
+    padding: 20px;
+}
+.contact h2{
+    font-size: 60px;
+    padding: 30px;
+}
+
+/* <!-- footer-section-start --> */
+.footer{
+    background: #0b62d1;
+}
+.footer p {
+    /* line-height: 64px; */
+    padding-bottom: 0;
+    color: white;
+
+    }
